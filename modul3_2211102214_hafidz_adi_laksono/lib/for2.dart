@@ -1,5 +1,5 @@
 void main() {
-  var mahasiswa = ['budi', 'bull', 'Kusuma', 'icad', 'ario'];
+  var mahasiswa = ['santoso', 'subejo', 'sukirman', 'suijem', 'suneo'];
 
   mahasiswa.forEach((nama) {
     print('Nama Mahasiswa: $nama');
