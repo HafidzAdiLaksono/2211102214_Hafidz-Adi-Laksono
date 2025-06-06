@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(modul11_2211102214_hafidz_adi_laksono LANGUAGES CXX)
+project(modul11_2211102195_fadhila_alya_syahfahlevi_01 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "modul11_2211102214_hafidz_adi_laksono")
+set(BINARY_NAME "modul11_2211102195_fadhila_alya_syahfahlevi_01")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
